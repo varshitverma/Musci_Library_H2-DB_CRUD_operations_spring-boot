@@ -23,7 +23,7 @@ And also given a database file `songs` which contains `PLAYLIST` table.
     Use only PLAYLIST as a table name in your code while writing queries
 </SingleLineNote>
 
-### Completion Instructions
+### Instructions
 
 - `Song.java`: The `Song` class should contain the following attributes.
 
@@ -163,6 +163,8 @@ Updates the details of a song in the `playlist` based on the `songId`. Also, ret
 #### Description:
 
 Deletes a song from the `playlist`  based on the `songId`.
+
+
 
 **Do not modify the code in the `SongApplication.java`.**
 
